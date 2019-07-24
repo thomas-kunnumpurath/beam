@@ -38,7 +38,7 @@ import org.apache.commons.csv.CSVFormat;
 import org.junit.Rule;
 import org.junit.Test;
 
-/** Test for BeamKafkaCSVTable. */
+/** Test for BeamSolaceCSVTable. */
 public class BeamKafkaCSVTableTest {
   @Rule public TestPipeline pipeline = TestPipeline.create();
 
